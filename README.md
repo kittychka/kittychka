@@ -1,7 +1,7 @@
 Hi there 👋
 -----------
 
-My name is Catherina and I'm mostly a network engineer and an ardent fan Python language. I love my job because It provides me with the opportunity to be creative and to try new things and to continually stretch myself.
+My name is Catherina. I'm mostly a network engineer and an ardent fan Python language. I love my job because It provides me with the opportunity to be creative and to try new things and to continually stretch myself.
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=success)
 ![](https://img.shields.io/badge/OS-Apple-informational?style=flat&logo=apple&logoColor=white&color=success)
