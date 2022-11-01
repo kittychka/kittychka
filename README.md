@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 I'm Catherina </h1>
 
 - 🇷🇺 I live in Russia, Smolensk
-- 🌐 I'm network engineer at Internet Service Provider
+- 🌐 I'm a network engineer at Internet Service Provider
 - 🐍 I'm an ardent fan of Python
 - 🦾 I love automation in all sorts of ways
 
