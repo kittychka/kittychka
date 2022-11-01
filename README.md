@@ -1,15 +1,22 @@
-Hi there 👋
------------
+<h1 align="center"> Hi there 👋 I'm Catherina </h1>
 
-My name is Catherina. I'm mostly a network engineer and an ardent fan Python language. I love my job because It provides me with the opportunity to be creative and to try new things and to continually stretch myself.
+- 🇷🇺 I live in Russia, Smolensk
+- 🌐 I'm network engineer at Internet Service Provider
+- 🐍 I'm an ardent fan of Python
+- 🦾 I love automation in all sorts of ways
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=success)
+
+![](https://img.shields.io/badge/OS-Debian-informational?style=flat&logo=debian&logoColor=white&color=success)
+![](https://img.shields.io/badge/OS-FreeBSD-informational?style=flat&logo=freebsd&logoColor=white&color=success)
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=success)
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=success)
+
+![](https://img.shields.io/badge/Device-Cisco-informational?style=flat&logo=cisco&logoColor=white&color=success)
+![](https://img.shields.io/badge/Device-Juniper-informational?style=flat&logo=junipernetworks&logoColor=white&color=success)
+
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=success)
-![](https://img.shields.io/badge/Device-Cisco-informational?style=flat&logo=cisco&logoColor=white&color=success)
-![](https://img.shields.io/badge/Device-Juniper-informational?style=flat&logo=talend&logoColor=white&color=success)
-![](https://img.shields.io/badge/Device-Juniper-informational?style=flat&logo=junipernetworks&logoColor=white&color=success)
+
 
 
 <!--
