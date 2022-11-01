@@ -9,6 +9,7 @@ My name is Catherina. I'm mostly a network engineer and an ardent fan Python lan
 ![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Device-Cisco-informational?style=flat&logo=cisco&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Device-Juniper-informational?style=flat&logo=talend&logoColor=white&color=success)
+![](https://img.shields.io/badge/Device-Juniper-informational?style=flat&logo=junipernetworks&logoColor=white&color=success)
 
 
 <!--
