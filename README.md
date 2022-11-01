@@ -5,6 +5,7 @@
 - 🐍 I'm an ardent fan of Python
 - 🦾 I love automation in all sorts of ways
 
+![](https://komarev.com/ghpvc/?username=kittychka&color=4AD390)
 
 ![](https://img.shields.io/badge/OS-Debian-informational?style=flat&logo=debian&logoColor=white&color=4AD390)
 ![](https://img.shields.io/badge/OS-FreeBSD-informational?style=flat&logo=freebsd&logoColor=white&color=4AD390)
@@ -17,8 +18,9 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AD390)
 ![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4AD390)
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kittychka&show_icons=true&theme=vue)](https://github.com/kittychka/github-readme-stats) -->
 
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kittychka&show_icons=true&theme=vue)](https://github.com/kittychka/github-readme-stats) -->
 
 <!--
 **kittychka/kittychka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
