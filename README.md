@@ -1,4 +1,4 @@
-<h1 align="rigth"> 👋 Hello, guest! I'm Catherina </h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&lines=Hi+there+👋+I'm+Catherina)](https://git.io/typing-svg)
 
 - 👩🏼‍💻 I'm self-taught
 - 🌐 NetOps engineer
