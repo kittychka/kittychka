@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231BA0D7&lines=Hi+there+👋+I'm+Catherina)](https://git.io/typing-svg)
 
 - 👩🏼‍💻 I'm self-taught
-- 🌐 NetOps engineer
+- 🌐 Former Network engineer, now a NetOps engineer.
 - 🐍 Fan of the Python language
 - 🎓 I'm studying information security
 - 🦾 I love automating and systematizing things in both life and work
