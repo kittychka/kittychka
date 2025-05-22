@@ -32,6 +32,7 @@
 ![](https://img.shields.io/badge/victoriametrics-%23621773.svg?style=for-the-badge&logo=victoriametrics&logoColor=white)
 ![](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
 
+![](https://komarev.com/ghpvc/?username=kittychka&color=1BA0D7)
+
 [![Екатерина Белокрыльцева StackOverflow](https://github-readme-stackoverflow-beryl.vercel.app/?userID=286391)](https://ru.stackoverflow.com/users/286391/Екатерина-Белокрыльцева)
 
-![](https://komarev.com/ghpvc/?username=kittychka&color=1BA0D7)
