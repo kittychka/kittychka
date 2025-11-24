@@ -3,8 +3,8 @@
 - 👩🏼‍💻 I'm self-taught
 - 🌐 Former Network engineer, now a NetOps engineer.
 - 🐍 Fan of the Python language
-- 🎓 I'm studying information security
 - 🦾 I love automating and systematizing things in both life and work
+- 🎓 I received a Diploma of Professional Retraining in Cybersecurity: Web Pentest (Advanced) in 2025
 
 <h1 align="rigth"> ⚙️ My skillset </h1>
 
